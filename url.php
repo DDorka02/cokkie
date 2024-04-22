@@ -15,5 +15,5 @@
         $szamlalo++;
     ?>
     <a href="url.php?szamlalo=<?php echo $szamlalo?>">Növel</a>
-</body>
+    </body>
 </html>

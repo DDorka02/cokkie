@@ -29,10 +29,10 @@
     else{
         echo "Üdvözlünk vendég!";
     }
-   
-    
+ 
     
     ?>
     <a href="url.php">url.php</a>
+    <a href="hidden.php">hidden.php</a>
 </body>
 </html>
